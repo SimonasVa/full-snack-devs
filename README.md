@@ -1,8 +1,4 @@
-# Spring-project-2024
-
-Testuotojams - kaip paleisti serverį per pgadmin 
-windows versija -  https://www.pgadmin.org/download/pgadmin-4-windows/
-macOS versija - https://www.pgadmin.org/download/pgadmin-4-macos/
+# Grožio salonas
 
 1. Įsirašius pgadmin, bus skiltis kur reikės nurodyti port numerį ir slaptažodį: port numeris: 5432, pasw: 1234
 
