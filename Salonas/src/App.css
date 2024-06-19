@@ -1,0 +1,31 @@
+#root {
+  
+  margin: 0 auto;
+ 
+  /* text-align: center;
+  display: grid; */
+  
+}
+.btn  {
+  margin-top: 1rem;
+  border:none;
+  background-color: #DFC1C1;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  cursor:pointer;
+  box-shadow: 0px 3px 3px #DFC1C1;
+}
+
+.main{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content{
+  background: url(./assets/Background7.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  flex: 1;
+  width: 100%;
+}
